@@ -29,7 +29,7 @@ This project is a simple password strength checker implemented in Python. It che
 - run the following command:
   ```bash
   pip install pyinstaller
-- What this will do is help us compile our python script into a executable exe file.
+- What this will do is help us compile our python script into a executable .exe file.
 
 ## Step 3:
 - Once you've verified the script works without any errors.
@@ -40,14 +40,4 @@ This project is a simple password strength checker implemented in Python. It che
 - Go ahead and run the .exe file to make sure it's working. <br>
 `NOTE: You might need to add the exe file to your anti-virus as an exception.`
 
-  
 
-
-
-
-
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [repository_url]
-   cd Password-Strength-Checker
