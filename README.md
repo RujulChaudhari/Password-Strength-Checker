@@ -14,11 +14,33 @@ This project is a simple password strength checker implemented in Python. It che
 
 ## Getting Started:
 
-- Steo 1:
 - You will need Python and VScode for this project.
 - <a href="https://www.python.org/downloads/"> Download Python Here</a>
+- <a href="https://code.visualstudio.com/download"> Download VScode Here</a>
 
+## Step 1:
+- Open up VScode.
+- Create a new python script, this will be our main PW checker file.
+- ![](https://i.imgur.com/A5DMyG9.png)
 
+## Step 2:
+- Copy the code above into your script.
+- Open up terminal in VScode.
+- run the following command:
+  ```bash
+  pip install pyinstaller
+- What this will do is help us compile our python script into a executable exe file.
+
+## Step 3:
+- Once you've verified the script works without any errors.
+- Run the following command in terminal in your terminal to compile it as a .exe file. <br>
+  ```bash
+  pyinstaller --onefile your_script_name.py
+- This wil create a Build and dist folder where your project is located. The exe file will be under the "dist" folder.
+- Go ahead and run the .exe file to make sure it's working. <br>
+`NOTE: You might need to add the exe file to your anti-virus as an exception.`
+
+  
 
 
 
