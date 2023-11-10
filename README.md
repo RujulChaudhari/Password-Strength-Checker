@@ -1,5 +1,4 @@
 # Welcome to the Password Strength Checker Project! 
-[GitHub Repository](#)
 
 ## Overview:
 
@@ -14,6 +13,17 @@ This project is a simple password strength checker implemented in Python. It che
 - **Special Character Check:** Optionally, you can add a check for at least one special character in the password.
 
 ## Getting Started:
+
+- Steo 1:
+- You will need Python and VScode for this project.
+- <a href="https://www.python.org/downloads/"> Download Python Here</a>
+
+
+
+
+
+
+
 
 1. **Clone the Repository:**
    ```bash
