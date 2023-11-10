@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project is a simple password strength checker implemented in Python. It checks various criteria, such as password length, the presence of uppercase and lowercase letters, numbers, and special characters.
+This project is a simple password strength checker implemented in Python. It checks various criteria, such as password length, the presence of uppercase and lowercase letters, numbers, and special characters. It gives you a rough estimation on how long it would take a threat actor to brute force and crack the password based on the complexity.
 
 ## Key Features:
 
