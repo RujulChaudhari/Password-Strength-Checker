@@ -1,4 +1,4 @@
-# Welcome to the Password Strength Checker Project! 
+# Password Strength Checker Project! 
 
 ## Overview:
 
