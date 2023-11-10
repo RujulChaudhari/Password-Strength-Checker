@@ -20,8 +20,8 @@ This project is a simple password strength checker implemented in Python. It che
 
 ## Step 1:
 - Open up VScode.
-- Create a new python script, this will be our main PW checker file.
-- ![](https://i.imgur.com/A5DMyG9.png)
+- Create a new python script, this will be our main PW checker file. <br>
+  ![](https://i.imgur.com/A5DMyG9.png)
 
 ## Step 2:
 - Copy the code above into your script.
@@ -40,4 +40,5 @@ This project is a simple password strength checker implemented in Python. It che
 - Go ahead and run the .exe file to make sure it's working. <br>
 `NOTE: You might need to add the exe file to your anti-virus as an exception.`
 
-
+## Done:
+- And there you have it, you have successfully created a PW strength checker. You can use this to secure your accounts. Enjoy! :)
